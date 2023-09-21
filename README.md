@@ -1,2 +1,2 @@
 # Tugas-Algoritma-Pemrograman
-Khusus tugas Algoritma &amp; Pemrograman
+Khusus Tugas Algoritma &amp; Pemrograman
