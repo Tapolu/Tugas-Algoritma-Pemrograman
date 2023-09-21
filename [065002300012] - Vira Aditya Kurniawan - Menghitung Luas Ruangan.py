@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Thu Sep 21 20:32:25 2023
 
-@author: Adkur
+@author: Adkur VA
 """
 
 print ("Program menghitung dan konversi luas ruangan")
