@@ -11,7 +11,7 @@ def angka_prima(angka):
 
 def main():
 
-  angka = float(input("Masukkan angka = "))
+  angka = int(input("Masukkan angka = "))
 
   if angka_prima(angka):
     print(angka, "adalah bilangan prima")
