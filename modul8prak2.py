@@ -7,7 +7,5 @@ def perpangkatan(x, pangkat):
 angka = float(input("Masukkan angka = "))
 pangkat = int(input("Masukkan pangkat (positif atau negatif) = "))
 
-
 hasil_perpangkatan = perpangkatan(angka, pangkat)
-
 print(f"{angka} pangkat {pangkat} = {hasil_perpangkatan}")
