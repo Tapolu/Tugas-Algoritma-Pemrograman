@@ -1,6 +1,6 @@
 def perpangkatan(x, pangkat):
     if pangkat == 0:
-        return 1.0
+        return angka
     else:
         return x * perpangkatan(x, pangkat - 1) if pangkat > 0 else 1.0 / perpangkatan(x, -pangkat)
 
